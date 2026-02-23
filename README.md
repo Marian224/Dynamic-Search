@@ -5,7 +5,8 @@
 
  <img width="1857" height="929" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/27d92746-ead2-4fd2-9d0e-80e5305a7112" />
 Мобільна версія виглядає так.
-![photo_5251750847387997312_w](https://github.com/user-attachments/assets/2b0895b8-584a-467a-9465-30edf313b9bb)
+ <img width="1857" height="929" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/2b0895b8-584a-467a-9465-30edf313b9bb" />
+
 
 ---
 
