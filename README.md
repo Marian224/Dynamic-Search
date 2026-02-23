@@ -13,6 +13,9 @@
 
 <img width="330" height="700" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/2d7be02b-70f6-4fc2-8656-c0fcadf3588b" />
 
+Qr code Додатка:
+<img width="250" height="250" alt="qr-code" src="https://github.com/user-attachments/assets/59dafe99-57e2-45f7-912f-0d47a1b941c2" />
+
 --- 
 
 
