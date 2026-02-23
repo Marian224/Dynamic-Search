@@ -1,0 +1,15 @@
+$bg-light: #f7f5f5;
+$accent-blue: #0077ed;
+$text-dark: #1d1d1f;
+$white: #ffffff;
+$search-border: #d2d2d7;
+$buy-hover: #0077ed;
+
+:root {
+    --bg-light: #{$bg-light};
+    --accent-blue: #{$accent-blue};
+    --text-dark: #{$text-dark};
+    --white: #{$white};
+    --search-border: #{$search-border};
+    --buy-hover: #{$buy-hover};
+}

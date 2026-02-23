@@ -1,0 +1,12 @@
+@use "base/variables";
+@use "base/body";
+
+@use "layout/app-wrapper";
+
+@use "components/store-header";
+@use "components/search-input";
+@use "components/product-grid";
+@use "components/product-card";
+@use "components/buy-button";
+
+@use "animations/fade-in";
