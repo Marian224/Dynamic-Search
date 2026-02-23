@@ -9,7 +9,12 @@
 
  <img width="350" height="700" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/2b0895b8-584a-467a-9465-30edf313b9bb" />
 
----
+<img width="350" height="700" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/7f6a25a6-0df2-407b-9f0e-d9995a773d62" />
+
+<img width="350" height="700" alt="Снимок экрана 2026-02-23 123136" src="https://github.com/user-attachments/assets/2d7be02b-70f6-4fc2-8656-c0fcadf3588b" />
+
+--- 
+
 
 ## 🚀 Функціонал
 
